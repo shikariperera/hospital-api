@@ -1,0 +1,27 @@
+{
+    "hospitals": [
+      {
+        "id": 0,
+        "name": "Army Hospital Narahenpita",
+        "address": "08 Elvitigala Mawatha,",
+        "city": "Colombo",
+        "phone": "011 2 697218",
+        "province": "Western Province",
+        "pcode": "00500"
+        
+        
+      },
+
+  {
+    "id": 1,
+    "name": "Victory Military Hospital",
+    "address": "Jayanthi Mawatha,",
+    "city": "Anuradhapura",
+    "phone": "0252223235",
+    "province": "North Central Province",
+    "pcode": "50000"
+    
+    
+  }
+]
+}
